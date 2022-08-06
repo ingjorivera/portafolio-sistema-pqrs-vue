@@ -1,0 +1,48 @@
+.pagina-inicio{
+   display: flex;
+   flex-direction: column;
+   gap: 20px;
+}
+.textos1{
+    text-align: center;
+}
+.q-page{
+    min-height: calc(100vh - 220px) !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-y: auto;
+}
+.botonera{
+    display: flex;
+    flex-direction: row;
+    gap: 70px;
+    width: 100%;
+    justify-content: center;
+}
+.boton-inicio{
+    cursor: pointer;
+    background: linear-gradient(180deg, #83D2FF -2.56%, #65A5ED 20.08%, #9E68BB 100%);
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.29);
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    padding: 15px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+}
+.icono{
+  max-width: 60px;
+  max-height: 60px;
+}
+.texto-btn-inicio{
+    font-size: small;
+    text-transform: uppercase;
+    font-weight: bolder;
+    margin: 0 !important;
+}
