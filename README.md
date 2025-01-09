@@ -16,11 +16,40 @@ Este proyecto es una plantilla para una página de aterrizaje diseñada para la 
 - **SCSS**: Para estilos modulares y escalables.
 - **HTML5/CSS3**: Construcción semántica y estilos básicos.
 
-## Instalación y Uso
+---
 
-1. Clona el repositorio:
+## 📦 Configuración del Proyecto
 
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+### 1️⃣ Instalación de Dependencias
+```bash
+npm install
+```
 
-   
+### 2️⃣ Modo de Desarrollo
+```bash
+npm run dev
+```
+
+### 3️⃣ Compilación y Minificación para Producción
+```bash
+npm run build
+```
+
+### 4️⃣ Linting de Código
+```bash
+npm run lint
+```
+
+---
+## Captura de pantalla
+![Captura de pantalla 2025-01-09 a la(s) 12 25 33 a m](https://github.com/user-attachments/assets/a3028e60-0cac-4f86-ac3a-033843827fa6)
+
+---
+
+## 🔧 Requisitos Recomendados
+
+- **IDE**: [Visual Studio Code](https://code.visualstudio.com/)
+  - Extensiones:
+    - [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+---
